@@ -14,3 +14,8 @@ Hugo theme for PyBCN site.
 
 The `bin/serve` script will start a server running locally to build
 and serve the site asynchronously.
+
+## Site building
+
+The `bin/build` script can be used to have Hugo building the site's
+files in the `public` directory.

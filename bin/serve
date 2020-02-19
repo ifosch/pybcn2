@@ -5,4 +5,4 @@ set -euo pipefail
 ROOT=$(cd "$(dirname "$0")/.." && pwd -P)
 . ${ROOT}/bin/helpers
 
-(eval_right_hugo && ${HUGO_BIN} server) || echo "Please run the install script"
+(eval_right_hugo && generate_config http://localhost:1313 && ${HUGO_BIN} server) || echo "Please run the install script"
