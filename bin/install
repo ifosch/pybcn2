@@ -28,10 +28,6 @@ function install_hugo() {
   echo "OK!"
 }
 
-function eval_right_hugo() {
-  ${HUGO_BIN} version 2>&1 | grep extended &>/dev/null && echo Using $HUGO_BIN
-}
-
 function install_theme() {
   echo -n "Installing theme... "
   wget -qO- https://github.com/ifosch/pybcn-theme/tarball/master \
@@ -45,7 +41,7 @@ function eval_theme_present() {
 }
 
 ROOT=$(cd "$(dirname "$0")/.." && pwd -P)
-HUGO_BIN=$(which hugo || echo "${ROOT}/bin/hugo")
+. ${ROOT}/bin/helpers
 
 eval_right_hugo || install_hugo
 eval_theme_present || install_theme

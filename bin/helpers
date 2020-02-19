@@ -1,0 +1,7 @@
+set -euo pipefail
+
+function eval_right_hugo() {
+  ${HUGO_BIN} version 2>&1 | grep extended &>/dev/null && echo Using $HUGO_BIN
+}
+
+HUGO_BIN=$(which hugo || echo "${ROOT}/bin/hugo")
