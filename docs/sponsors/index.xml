@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on Python Barcelona</title>
+    <link>https://www.natx.cat/pybcn2/sponsors/</link>
+    <description>Recent content in Sponsors on Python Barcelona</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 18:33:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.natx.cat/pybcn2/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
