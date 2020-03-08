@@ -11,5 +11,50 @@
 	<atom:link href="https://www.natx.cat/pybcn2/news/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>PyBCN association membership registration is now open!</title>
+      <link>https://www.natx.cat/pybcn2/news/association-membership/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.natx.cat/pybcn2/news/association-membership/</guid>
+      <description>Hi! We&amp;rsquo;re glad to announce that the Python Barcelona association (PyBCN) membership registration is finally open :) Join us and help us organize bigger and better Python related events! PyBCN is a non-profit organization with more than 10 years of history, focused on increasing the usage and knowledge of the Python programming language. By becoming a member, you&amp;rsquo;ll support the association&amp;rsquo;s activities and programs, helping us not only to increase the number of activities, but also to improve them (i.</description>
+    </item>
+    
+    <item>
+      <title>pyBCN podcast 3</title>
+      <link>https://www.natx.cat/pybcn2/news/pybcn-podcast-3/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.natx.cat/pybcn2/news/pybcn-podcast-3/</guid>
+      <description> Escuchar podcast en iVoox. Suscríbete al podcast. ¿Qué cambia de Python 2 a 3? ¿Qué nos gusta y qué no nos gusta? ¿Qué problemas nos hemos encontrado en las migraciones y cómo los hemos solucionado?  </description>
+    </item>
+    
+    <item>
+      <title>pyBCN podcast 2</title>
+      <link>https://www.natx.cat/pybcn2/news/pybcn-podcast-2/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.natx.cat/pybcn2/news/pybcn-podcast-2/</guid>
+      <description> Escuchar podcast en iVoox. Suscríbete al podcast. En este segundo episodio tratamos el tema del software libre.  </description>
+    </item>
+    
+    <item>
+      <title>pyBCN podcast 1</title>
+      <link>https://www.natx.cat/pybcn2/news/2018-07-15-podcast-0/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.natx.cat/pybcn2/news/2018-07-15-podcast-0/</guid>
+      <description>Escuchar podcast en iVoox. Suscríbete al podcast. El tema principal de este primer podcast es “Python en tu vida”, donde explicaremos la experiencia que tenemos cada uno de nosotros con Python y cómo encaja con otras tecnologías. ¿Cuándo y cómo fue vuestro primer contacto con Python? ¿Qué fue lo que os atrajo, lo que no os gustó, etc.? ¿Habéis utilizado siempre Python en vuestra carrera o también otros lenguajes? ¿Para qué utilizáis actualmente Python (qué campo)?</description>
+    </item>
+    
+    <item>
+      <title>Python June Meetup</title>
+      <link>https://www.natx.cat/pybcn2/news/2018-06-meetup/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.natx.cat/pybcn2/news/2018-06-meetup/</guid>
+      <description>&amp;ldquo;How does that PySpark thing work? And why Arrow makes it faster?&amp;rdquo; by Rubén Berenguel. &amp;ldquo;Frozen Python: satice ice dataloggers&amp;rdquo; by Oriol Sánchez Talks How does that PySpark thing work? And why Arrow makes it faster? by Rubén Berenguel (@berenguel) (English, 45 min) Back in ye olde days of Spark, using Python with Spark was an exercise in patience. Data was moving up and down from Python to Scala, being serialised constantly.</description>
+    </item>
+    
   </channel>
 </rss>
