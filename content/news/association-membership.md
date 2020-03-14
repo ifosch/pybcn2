@@ -2,6 +2,7 @@
 title: PyBCN association membership registration is now open!
 date: 2019-07-30
 draft: false
+excerpt: Python Barcelona Association membership is open for registration! Join us and help our community!
 ---
 Hi!
 We're glad to announce that [the Python Barcelona association (PyBCN)](https://pybcn.org/association/info) membership registration is finally open :)
